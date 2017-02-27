@@ -1,4 +1,5 @@
 # Calgary
 
-## Places to Eat 
+## Places to Eat
 - university food court
+- kinjo 
