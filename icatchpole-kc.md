@@ -1,6 +1,7 @@
 # Anchorage AK
 
 ## Places to Eat
+- Glacier Brew House
 - Simon and Seaforts
 - Benihana
 
