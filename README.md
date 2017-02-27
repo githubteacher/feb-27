@@ -1,6 +1,6 @@
 # GitHub for Developers
 
-- Class Date: THIS-DATE
+- Class Date: Feb 27-28, 2017
 - Facilitators:
  - @brianamarie :microphone:
  - @hollenberry :speech_balloon:
