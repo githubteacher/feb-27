@@ -1,18 +1,18 @@
 # Pittsburgh PA
 
-##Places to eat
+## Places to eat
 -Primantees
 
-##Things to do:
+## Things to do:
 Strip District
 Southside
 NorthSide
 
-#Sport Teams
+## Sport Teams
 Pirates
 Steelers
 Penguins
 
-City of Champions# Pittsburgh PA
+City of Champions Pittsburgh PA
 
 
