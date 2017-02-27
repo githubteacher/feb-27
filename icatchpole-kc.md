@@ -8,3 +8,4 @@
 ## Things to Do
 - Ski at Alyeska
 - Visit Denali National Park
+- Fish on the Kenai
