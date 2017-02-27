@@ -1,4 +1,4 @@
-# GitHub for Developers
+# Git Essentials
 
 - Class Date: Feb 27-28, 2017
 - Facilitators:
