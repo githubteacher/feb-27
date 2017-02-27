@@ -1,7 +1,5 @@
 # GitHub for Developers
 
-[![Join the chat at https://gitter.im/feb-27/Lobby](https://badges.gitter.im/feb-27/Lobby.svg)](https://gitter.im/feb-27/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
 - Class Date: Feb 27-28, 2017
 - Facilitators:
  - @brianamarie :microphone:
@@ -9,8 +7,7 @@
 
 ## Talk to Us!!
 
-Gitter badge goes here!
-
+[![Join the chat at https://gitter.im/feb-27/Lobby](https://badges.gitter.im/feb-27/Lobby.svg)](https://gitter.im/feb-27/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ## Scripts for Adding Files
 
