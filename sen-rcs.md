@@ -5,3 +5,5 @@
 
 ## Games to Watch
 - Football
+- Soccer
+- Basketball
